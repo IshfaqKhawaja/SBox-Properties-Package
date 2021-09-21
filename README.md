@@ -1,5 +1,5 @@
 # SBox-Properties-Package
-## This package can be used to calculate different SBox Properties like Non Linearity, Differential Uniformity, Differential Uniformity and Auto Correlation factor.
+## This package can be used to calculate different SBox Properties like Non Linearity, Differential Uniformity and Auto Correlation factor.
 
 
 # Usage:
