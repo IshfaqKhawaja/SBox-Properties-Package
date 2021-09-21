@@ -3,7 +3,6 @@
 
 
 # Usage:
-## Non Linearity:
 ## For an n*m SBox
 To Calculate Non Linearity of SBox import non_linearity from package.
 then call the function 
